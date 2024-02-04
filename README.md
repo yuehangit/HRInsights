@@ -3,3 +3,6 @@
 
 
 Link: https://public.tableau.com/views/HRInsights_17063047423050/HRInsightsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+This project focuses on learning to customize data visualizations and a dashboard in Tableau. I used data and followed a tutorial from https://www.youtube.com/watch?v=oAIubTqg-Kw&t=1963s but as you can see I changed a lot of the visualization's size, colour, and background. I used colour theory to make the the dashboard more readable and stand out more.
